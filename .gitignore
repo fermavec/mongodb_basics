@@ -71,3 +71,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Mongo Data
+mongo_data/

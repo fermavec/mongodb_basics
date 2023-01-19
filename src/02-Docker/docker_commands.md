@@ -15,3 +15,22 @@ sudo docker-compose up -d mongodb
 ```
 docker-compose ps
 ```
+
+# Execute the terminal
+
+```sh
+docker-compose exec mongodb bash
+```
+
+# Connect with mongosh
+
+```sh
+mongosh "database:string"
+```
+
+# Mongosh Commands
+
+```sh
+show dbs
+show collections
+```

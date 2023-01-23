@@ -1,0 +1,2 @@
+use("fermavec_store")
+db.iot.find()
